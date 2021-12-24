@@ -10,4 +10,10 @@ im here you have to import stepic module
 <br>
 2.type -----> python -m pip imstall stepic
 <br>
-3.
+
+*************important*******<br>
+3.after
+----->>> im1=stepic.encode(im,b'Jehan Kandy') code
+<br>
+you must save image in .png extanrion
+
