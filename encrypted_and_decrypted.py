@@ -14,7 +14,7 @@ im1=stepic.encode(im,b'Jehan Kandy')
 #now save the image
 
 #******* important save image in .png extention*****************
-#otherwise it not workinh
+#otherwise it not working
  
 im1.save('G:/learning/programming/python/python.png')
 im1=Image.open('G:/learning/programming/python/python.png')
