@@ -6,5 +6,8 @@ data encryption and decryption
 
 im here you have to import stepic module
 <br>
-
-
+1.open CMD
+<br>
+2.type -----> python -m pip imstall stepic
+<br>
+3.
