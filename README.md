@@ -17,3 +17,6 @@ im here you have to import stepic module
 <br>
 you must save image in .png extanrion
 
+<br>
+otherwise not working
+
