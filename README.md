@@ -22,6 +22,6 @@ otherwise not working
 
 
 <br><br>
-What is the 
+What is the Steganography......?????
 <br>
 Steganography works by hiding information in a way that doesn't arouse suspicion. One of the most popular techniques is 'least significant bit (LSB) steganography. In this type of steganography, the information hider embeds the secret information in the least significant bits of a media file
